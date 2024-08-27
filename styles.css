@@ -1,0 +1,156 @@
+body {
+    text-align: center;
+}
+#navbar {
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+color: #ab1717;
+height: 50px;
+/*background-color: dodgerblue; */
+}
+
+#home {
+display: flex;
+justify-content: left;
+background-color: rgb(255, 254, 254);
+width: 150px;
+height: 100px;
+/* background-color: limegreen; */
+}
+#pages {
+display: flex;
+justify-content: space-around;
+background-color: rgb(253, 253, 253);
+width: 150px;
+height: 100px;
+/* background-color: red; */
+}
+
+.coffee-bar-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* background-color: yellow; */
+  
+}
+.coffee-bar{
+    height: 350px;
+    width: 700px;
+    /* align-items: flex-start; */
+}
+
+#bottomnavbar {
+font-size: 150%;
+display: flex;
+justify-content: space-around;
+border: 10cm;
+/*background-color: rgb(178, 182, 182); */
+margin-top: 5%;
+}
+
+
+/* Jimmy look here for reference */
+
+
+  .coffee-drink-container {
+    display: flex;
+    justify-content: space-around;
+   margin: top 100px;
+   width: 100%;
+   height: 50%;
+    /* align-items: center; */
+    /*background-color: pink;*/
+  }
+  #drink {
+  width: 30%;
+  height: 70%;
+  /*background-color: rgb(247, 251, 251)*/
+  }
+
+.drink-img {
+  width: 90%;
+  height: 90%;
+}
+
+.drink-header {
+  margin-top: 3%;
+}
+
+
+.pastry-header {
+  margin-top: 50px;
+}
+
+.pastries-container {
+  display: flex;
+  justify-content: space-around;
+ margin: top 50px;
+ width: 100%;
+  /* align-items: center; */
+  /*background-color: pink;*/
+}
+#pastries {
+width: 30%;
+/*background-color: rgb(247, 251, 251)*/
+}
+
+.pastries-img {
+width: 70%;
+height: 70%;
+}
+
+
+
+
+
+.coffee-drink {
+    /* width: 50%;
+    height: 100px;
+    width: 100px;  */
+
+}
+
+.font-headers {
+  
+  
+}
+
+h1 {
+  text-align: center;
+  font-family: Lucida;
+  color: #ab1717;
+}
+h2 {
+   font-size: 20px;
+   font-style: normal;
+}
+h3 {
+   color: #ab1717;
+   font-size: 30px;
+}
+h4 {
+   font-size: 20px;
+}
+h5 {
+   font-size: 20px;  
+}
+
+
+#cafe {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  #ice img{
+    /* display:flex;
+    width: 70%; */
+  }
+  #latte img{
+    /* display: flex;
+    width: 70%; */
+  }
+  #espresso img{
+    /* display: flex;
+    width: 80%; */
+  }
