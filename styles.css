@@ -14,7 +14,7 @@ height: 50px;
 #home {
 display: flex;
 justify-content: left;
-background-color: rgb(255, 254, 254);
+/* background-color: rgb(255, 254, 254); */
 width: 150px;
 height: 100px;
 /* background-color: limegreen; */
