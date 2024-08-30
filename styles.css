@@ -6,7 +6,8 @@ body {
 display: flex;
 align-items: flex-start;
 justify-content: space-between;
-color: #ab1717;
+/* color: #ab1717; */
+background-color: #dbc1ac;
 height: 50px;
 /*background-color: dodgerblue; */
 }
