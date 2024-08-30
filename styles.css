@@ -23,7 +23,7 @@ height: 100px;
 #pages {
 display: flex;
 justify-content: space-around;
-background-color: rgb(253, 253, 253);
+/* background-color: rgb(253, 253, 253); */
 width: 150px;
 height: 100px;
 /* background-color: red; */
